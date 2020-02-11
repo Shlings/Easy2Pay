@@ -18,7 +18,7 @@
  
 ### 本项目运行Demo
 
-- 电脑端进入→ [在线demo](https://easypay.goodqp.com/)
+- 电脑端进入→ [在线demo](http://easypay.goodqp.com/)
 
 ### 个人申请支付接口现状
 - 原生支付宝，微信支付
@@ -89,4 +89,4 @@
 `第三步：easypay_app 告诉easypay_server 这个支付成功的消息 -> easypay_server 把这个消息回调给你的网站(notify_url)`
 
 #### easypay源码（含详细文档）获取方式 
-- 本项目源码下载： [点此下载](https://easypay.goodqp.com/)
+- 本项目源码下载： [点此下载](http://easypay.goodqp.com/)
